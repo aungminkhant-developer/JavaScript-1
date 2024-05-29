@@ -1,1 +1,4 @@
-console.log("Hay AungMinKhant");
+
+
+const name = "Aung Min Khant";
+console.log(name);
